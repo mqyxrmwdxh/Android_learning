@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basic_grammar/Basic_grammar.iml" filepath="$PROJECT_DIR$/Basic_grammar/Basic_grammar.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSe.iml" filepath="$PROJECT_DIR$/JavaSe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advance_grammar/advance_grammar.iml" filepath="$PROJECT_DIR$/advance_grammar/advance_grammar.iml" />
     </modules>
   </component>
 </project>

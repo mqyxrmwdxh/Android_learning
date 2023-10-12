@@ -1,10 +1,11 @@
 package Base;
 
 public class Son extends  Lei{//继承
+    //静态代码块->实例代码块->构造函数
     {
-        System.out.println("匿名代码块");
+        System.out.println("匿名代码块");//实例（匿名）代码块
     }
-    static{
+    static{//一个类可以有多个，在main方法之前执行，多个静态代码块自上而下执行，仅执行一次
         System.out.println("静态代码块");
     }
     public Son(){
